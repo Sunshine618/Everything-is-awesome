@@ -2,3 +2,7 @@ This is my text file
 Today I am learning Git
 I am still confused
 But I don't plan on staying that way. I got this!
+
+Never
+Give Up
+and you will always succeed!
