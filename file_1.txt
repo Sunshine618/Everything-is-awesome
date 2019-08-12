@@ -1,4 +1,4 @@
-Add a line of text
+This is my text file
 Today I am learning Git
 I am still confused
 But I don't plan on staying that way. I got this!
